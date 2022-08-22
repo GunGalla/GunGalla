@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GunGalla
 - 👀 I’m interested in coding and video games. I love Witcher 3 :)
 - 🌱 I’m currently learning Python.
-- 💞️ I’m going to become a senior programmer :)
+- 💞️ I’m going to become a cool programmer :)
 - 📫 If you want to connect with me, send a message to gungalla@gmail.com, I'll be glad to talk with you.
 
 <!---
